@@ -8,8 +8,8 @@ const bitcountSingle = Bitcount_Single({
 });
 
 export const metadata: Metadata = {
-  title: "Tiny Question App",
-  description: "Ask questions in a fun and engaging way",
+  title: "PlayAsk",
+  description: "Make asking a fun and engaging experience.",
 };
 
 export default function RootLayout({
